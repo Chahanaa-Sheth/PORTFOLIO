@@ -5,6 +5,9 @@
 /* Portfolio Design System - Premium Tech Aesthetic */
 
 @layer base {
+  html {
+    font-size: 100%;
+  }
   :root {
     /* Base Colors */
     --background: 240 10% 3.9%;

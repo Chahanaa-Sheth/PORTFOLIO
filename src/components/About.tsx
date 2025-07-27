@@ -201,12 +201,12 @@ const About = () => {
                 Get In Touch
               </a>
               <a
-                href="/resume.pdf"
+                href="/uploads/Chahanaa_Sheth_Resume.pdf.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="glass-card border-primary/30 hover:border-primary/60 hover:bg-primary/10 px-6 py-3 transition-all duration-300 inline-flex items-center justify-center rounded-xl"
               >
-                Download Resume
+                Open Resume
               </a>
             </div>
           </div>

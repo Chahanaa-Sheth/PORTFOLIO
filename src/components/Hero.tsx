@@ -50,7 +50,7 @@ const Hero = () => {
               transition={{ duration: 2, delay: 0.8, ease: "linear" }}
               className="inline-block overflow-hidden whitespace-nowrap border-r-2 border-primary animate-pulse"
             >
-              Chahanaa Nirov Sheth
+              Chahanaa Sheth
             </motion.span>
             <span className="text-portfolio-text-secondary">/&gt;</span>
           </motion.div>
@@ -93,9 +93,10 @@ const Hero = () => {
             </Button>
             
             <a
-              href="/lovable-uploads/0d390a81-ee93-4e18-9c6f-e940d18b72cf.png"
+              href="/uploads/Chahanaa_Sheth_Resume.pdf.pdf"
               target="_blank"
               rel="noopener noreferrer"
+              download="Chahanaa_Sheth_Resume.pdf.pdf"
               className="glass-card border-primary/30 hover:border-primary/60 text-lg px-8 py-4 hover:bg-primary/10 inline-flex items-center justify-center rounded-xl transition-all duration-300"
             >
               Download Resume

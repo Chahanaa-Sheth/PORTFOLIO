@@ -58,19 +58,13 @@ const Contact = () => {
     {
       icon: <Github className="h-5 w-5" />,
       label: "GitHub",
-      href: "https://github.com/yourusername",
+      href: "https://github.com/Chahanaa-Sheth",
       color: "hover:text-gray-400"
     },
     {
       icon: <Linkedin className="h-5 w-5" />,
       label: "LinkedIn",
-      href: "https://linkedin.com/in/yourprofile",
-      color: "hover:text-blue-400"
-    },
-    {
-      icon: <Twitter className="h-5 w-5" />,
-      label: "Twitter",
-      href: "https://twitter.com/yourusername",
+      href: "https://www.linkedin.com/in/chahanaa-sheth-3a7914237/",
       color: "hover:text-blue-400"
     }
   ];

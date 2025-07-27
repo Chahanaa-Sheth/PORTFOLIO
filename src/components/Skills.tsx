@@ -17,21 +17,21 @@ const Skills = () => {
       icon: <Code className="h-6 w-6" />,
       skills: [
         { name: "Python", level: 95 },
-        { name: "Dart", level: 90 },
+        { name: "Dart", level: 85 },
         { name: "JavaScript", level: 85 },
         { name: "C++", level: 80 },
-        { name: "TypeScript", level: 85 }
+        { name: "TypeScript", level: 70 }
       ]
     },
     {
       title: "AI & Machine Learning",
       icon: <Brain className="h-6 w-6" />,
       skills: [
-        { name: "TensorFlow", level: 90 },
+        { name: "TensorFlow", level: 80 },
         { name: "PyTorch", level: 85 },
-        { name: "Scikit-learn", level: 90 },
-        { name: "LSTM Networks", level: 85 },
-        { name: "Computer Vision", level: 80 }
+        { name: "Scikit-learn", level: 80 },
+        { name: "LSTM Networks", level: 75 },
+        { name: "Computer Vision", level: 60 }
       ]
     },
     {
@@ -40,16 +40,16 @@ const Skills = () => {
       skills: [
         { name: "Flutter", level: 95 },
         { name: "React", level: 85 },
-        { name: "Next.js", level: 80 },
-        { name: "Node.js", level: 75 },
-        { name: "Streamlit", level: 90 }
+        { name: "Next.js", level: 70 },
+        { name: "Node.js", level: 70 },
+        { name: "Streamlit", level: 85 }
       ]
     },
     {
       title: "IoT & Hardware",
       icon: <Cpu className="h-6 w-6" />,
       skills: [
-        { name: "ESP32", level: 90 },
+        { name: "ESP32", level: 80 },
         { name: "MQTT", level: 85 },
         { name: "TensorFlow Lite", level: 80 },
         { name: "Embedded Systems", level: 75 },
@@ -60,11 +60,11 @@ const Skills = () => {
       title: "Backend & Database",
       icon: <Database className="h-6 w-6" />,
       skills: [
-        { name: "Firebase", level: 90 },
+        { name: "Firebase", level: 95 },
         { name: "Cloud Firestore", level: 85 },
         { name: "REST APIs", level: 85 },
         { name: "Real-time Systems", level: 80 },
-        { name: "Linux", level: 75 }
+        { name: "Linux", level: 60 }
       ]
     },
     {
@@ -75,7 +75,7 @@ const Skills = () => {
         { name: "NumPy", level: 90 },
         { name: "Plotly", level: 85 },
         { name: "yFinance", level: 80 },
-        { name: "NewsAPI", level: 80 }
+        { name: "NewsAPI", level: 95 }
       ]
     }
   ];
